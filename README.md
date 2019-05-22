@@ -1,10 +1,10 @@
-# Remove Linkedin Connection
+# Remove LinkedIn Connection
 
-:bust_in_silhouette: Remove a linkedin connection with a single click.
+:bust_in_silhouette: Remove a linkedIn connection with a single click.
 
-> * This script adds a `Remove` button on the linkedin [connection](https://www.linkedin.com/mynetwork/invite-connect/connections/) page
-> * When the remove button is clicked it removes the connection instantly verses to going through three different steps.
-> * This helps you save time in managing your connections, for a large no of unwanted connections. 
+> * This script adds a `Remove` button on the LinkedIn [connection](https://www.linkedin.com/mynetwork/invite-connect/connections/) page.
+> * When the remove button is clicked, it removes the connection instantly versus to going through three different steps.
+> * This helps you save time in managing your connections, for a large number of unwanted connections. 
 
 ## Use :computer:
 
