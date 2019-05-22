@@ -8,7 +8,7 @@
 
 ## Use :computer:
 
-* You can add the script from `index.js` to any scripts like [greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) and enable the script.
+* You can add the script from `index.js` to scripts like [greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) and enable the script.
 * You will then see a remove button on  [connection](https://www.linkedin.com/mynetwork/invite-connect/connections/) page, which removes a connection in a single click
 
 
