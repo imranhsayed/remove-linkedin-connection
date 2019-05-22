@@ -15,3 +15,8 @@
 ### Demo :video_camera:
 
 ![](demo.gif)
+
+### Contributers :busts_in_silhouette:
+
+* :bust_in_silhouette: [Imran Sayed](https://github.com/imranhsayed)
+* :bust_in_silhouette: [Muhammad Muhsin](https://github.com/m-muhsin)
