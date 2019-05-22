@@ -14,7 +14,7 @@
 
 ### Demo :video_camera:
 
-![](demo.gif)
+![](script-demo.gif)
 
 ### Contributers :busts_in_silhouette:
 
